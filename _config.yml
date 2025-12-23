@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0001-3651-3663"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : "https://www.researchgate.net/profile/Hendrik-Schaefke"
   scopus           : # URL
   zotero           : # URL
